@@ -1,0 +1,8 @@
+{
+  "name": "Shield",
+  "description": "Creator marketplace platform connecting businesses with skilled creators, featuring personalized feeds, creator search, tailored accounts, and collaboration project history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
